@@ -35,6 +35,7 @@ void PrintArray(int[] array)
     }
    Console.WriteLine($"] {count}");
 }
+
 int CountEvenNum (int[] arr)
 {
     int count = 0;
