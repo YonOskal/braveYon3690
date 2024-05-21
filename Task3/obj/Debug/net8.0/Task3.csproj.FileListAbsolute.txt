@@ -1,0 +1,15 @@
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\bin\Debug\net8.0\Task3.exe
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\bin\Debug\net8.0\Task3.deps.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\bin\Debug\net8.0\Task3.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\bin\Debug\net8.0\Task3.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.sourcelink.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\refint\Task3.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Task3\obj\Debug\net8.0\ref\Task3.dll
