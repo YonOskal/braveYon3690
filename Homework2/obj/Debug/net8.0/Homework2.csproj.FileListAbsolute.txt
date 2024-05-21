@@ -1,0 +1,15 @@
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfoInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.AssemblyInfo.cs
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.csproj.CoreCompileInputs.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.sourcelink.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\bin\Debug\net8.0\Homework2.exe
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\bin\Debug\net8.0\Homework2.deps.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\bin\Debug\net8.0\Homework2.runtimeconfig.json
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\bin\Debug\net8.0\Homework2.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\bin\Debug\net8.0\Homework2.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\refint\Homework2.dll
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.pdb
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\Homework2.genruntimeconfig.cache
+C:\Geek Brains\Gid\Введение в контроль версий\sem_lesson4\Homework2\obj\Debug\net8.0\ref\Homework2.dll
